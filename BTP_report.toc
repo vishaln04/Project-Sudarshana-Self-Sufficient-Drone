@@ -1,0 +1,35 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {chapter}{\numberline {2}Essentials for Project}{2}
+\contentsline {section}{\numberline {2.1}Quadcopter}{2}
+\contentsline {subsection}{\numberline {2.1.1}Quadcopter Frame}{2}
+\contentsline {subsection}{\numberline {2.1.2}Motors and Propellers}{3}
+\contentsline {subsection}{\numberline {2.1.3}Electronic Speed Controllers}{3}
+\contentsline {subsection}{\numberline {2.1.4}Battery and Charger}{4}
+\contentsline {subsection}{\numberline {2.1.5}Radio Transceiver \& Joysticks}{4}
+\contentsline {subsection}{\numberline {2.1.6}Flight Controller}{5}
+\contentsline {subsection}{\numberline {2.1.7}Arduino Uno Board}{6}
+\contentsline {section}{\numberline {2.2}Home Automation}{6}
+\contentsline {subsection}{\numberline {2.2.1}Arduino Board}{6}
+\contentsline {subsection}{\numberline {2.2.2}Bluetooth module}{6}
+\contentsline {subsection}{\numberline {2.2.3}4-Channel Relay Board}{7}
+\contentsline {subsection}{\numberline {2.2.4}Motion Sensor}{7}
+\contentsline {subsection}{\numberline {2.2.5}Connectors}{8}
+\contentsline {chapter}{\numberline {3}Implementation}{9}
+\contentsline {section}{\numberline {3.1}Procedure for Quadcopter}{9}
+\contentsline {subsection}{\numberline {3.1.1}Soldering the ESCs to the Frame}{9}
+\contentsline {subsection}{\numberline {3.1.2}Motor Installation with ESC}{10}
+\contentsline {subsection}{\numberline {3.1.3}Adding KK Board with proper configuration}{11}
+\contentsline {subsection}{\numberline {3.1.4}Self-made Remote}{12}
+\contentsline {subsection}{\numberline {3.1.5}Adding Propellers}{14}
+\contentsline {section}{\numberline {3.2}Procedure for Home Automation}{15}
+\contentsline {subsection}{\numberline {3.2.1}Circuit Design}{15}
+\contentsline {subsection}{\numberline {3.2.2}Working Process}{16}
+\contentsline {chapter}{\numberline {4}Result}{17}
+\contentsline {section}{\numberline {4.1}Quadcopter Result}{17}
+\contentsline {section}{\numberline {4.2}Home Automation Result}{17}
+\contentsline {chapter}{\numberline {5}Conclusions}{18}
+\contentsline {section}{\numberline {5.1}Qaudcopter-}{18}
+\contentsline {section}{\numberline {5.2}Home Automation-}{18}
+\contentsline {chapter}{\numberline {6}Future Scope}{19}
+\contentsline {section}{\numberline {6.1}Quadcopter-}{19}
+\contentsline {section}{\numberline {6.2}Home Automation-}{19}
